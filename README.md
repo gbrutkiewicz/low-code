@@ -1,2 +1,2 @@
-# low-oded
+# low-code
 Exercice low code 
